@@ -1,0 +1,5 @@
+In this project, the first question is running on exercise1.py, the second question is running on laplace_smoothing.py
+Question 3,4 is running on exercise3_4.py and we just change the percentage_positive_instances_train,
+percentage_negative_instances_train to fit the percentage of data
+
+Question 6 is running on exercise6.py
